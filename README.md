@@ -17,7 +17,7 @@ quality attributes example:
 
 [Visit ASU](https://www.asu.edu.jo/en/Pages/default.aspx)
 
-![Markdown Logo](https://www.asu.edu.jo/ar/News/PublishingImages/283/ASU-22.JPG)
+![Markdown Logo](do-not-spy-line-icon-web-and-mobile-visible-vector-18444519.jpg)
 
 
 
