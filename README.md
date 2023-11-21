@@ -20,5 +20,20 @@ quality attributes example:
 ![Markdown Logo](do-not-spy-line-icon-web-and-mobile-visible-vector-18444519.jpg)
 
 
+## Java User input
+To read user input in java, use `Scanner s=new Scanner(System.in)`
+Example:
+
+    Scanner s=new Scanner(system.in)
+    int value=s.nextInt()
+   
+| Name | Id |Major
+|----------|----------|--------
+| Asaad| 202111412|SE
+|Abdallah|202111306|SE
+|Alaa|202011402|Cs
+
+---
+> asaad aljammal in Asu
 
 
