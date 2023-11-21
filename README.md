@@ -34,6 +34,9 @@ Example:
 |Alaa|202011402|Cs
 
 ---
+- [x] learn sql
+- [ ] learn java
+---
 > asaad aljammal in Asu
 
 
